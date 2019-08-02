@@ -1,12 +1,8 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "kryptoverden",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "Kryptoverden.no",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
-  },
   "dependencies": {
     "gatsby": "^2.13.45",
     "gatsby-image": "^2.2.7",
