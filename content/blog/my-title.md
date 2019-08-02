@@ -1,6 +1,6 @@
 ---
-title: My title
+title: Kommer snart
 date: 2019-08-02T17:25:32.112Z
-description: My description
+description: 'Smør dere med tålmodighet, snart kommer det masse godt innhold'
 ---
-My body
+Smør dere med tålmodighet, snart kommer det masse godt innhold
