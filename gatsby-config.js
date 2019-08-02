@@ -4,6 +4,9 @@ module.exports = {
     author: `Kryptoverden`,
     description: `Kryptoverden.no`,
     siteUrl: `https://kryptoverden.no/`,
+    social: {
+      twitter: `thullball`,
+    },
   },
   plugins: [
     {
