@@ -56,16 +56,34 @@ class Layout extends React.Component {
         style={{
           marginLeft: `auto`,
           marginRight: `auto`,
-          maxWidth: rhythm(24),
+          maxWidth: rhythm(29),
           padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
         }}
       >
         <header>{header}</header>
         <main>{children}</main>
-        <footer>
-          © {new Date().getFullYear()}, Built with
+        <footer
+          style={{
+            borderTop: "1px solid #ccc",
+            paddingTop: rhythm(.4),
+          }}
+        >
+          © {new Date().getFullYear()} - Bloggen er bygget ved hjelp av
           {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
+          <a href="https://www.gatsbyjs.org" target="_blank">Gatsby</a>
+          <p
+            style={{
+              ...scale(-0.4),
+              marginBottom: rhythm(1),
+              marginTop: rhythm(0.3),
+            }}
+          >
+            <b>Forbehold:</b> Investering og handel er riskofylt. Snakk
+            med en autorisert finansrådgiver før du foretar beslutninger.
+            Kryptoverden.no er kun en informasjonsportal, og vil
+            ikke holdes ansvarlig for økonomiske beslutninger gjort av våre
+            besøkende.
+          </p>
         </footer>
       </div>
     )
