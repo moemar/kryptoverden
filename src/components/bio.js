@@ -58,12 +58,12 @@ const Bio = () => {
           marginBottom: rhythm(0),
         }}
       >
-        Velkommen inn i en spennende <strong>{author}</strong>. Her forsøker vi
+        Velkommen inn i den spennende <strong>{author}</strong>. Her forsøker vi
         å gjøre et ellers så komplisert tema om til noe som er enkelt å forstå.
         {` `}
-        {/* <a href={`https://twitter.com/${social.twitter}`}>
-          You should follow him on Twitter
-        </a> */}
+        <a href={`https://twitter.com/${social.twitter}`}>
+          Følg oss gjerne på Twitter
+        </a>
       </p>
     </div>
   )
