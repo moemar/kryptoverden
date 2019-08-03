@@ -68,7 +68,7 @@ class Layout extends React.Component {
             paddingTop: rhythm(.4),
           }}
         >
-          © {new Date().getFullYear()} - Bloggen er bygget ved hjelp av
+          © {new Date().getFullYear()} - Bloggen er bygget ved hjelp av ❤️☕ og 
           {` `}
           <a href="https://www.gatsbyjs.org" target="_blank">Gatsby</a>
           <p
