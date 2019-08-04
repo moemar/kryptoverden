@@ -16,7 +16,7 @@ Selv om blokkjedeteknologi ofte kobles sammen med fenomenet og internettvalutaen
 ##Kom bli med - inn å se
 Ettersom alt dette høres litt magisk ut, la oss ta for oss et magisk eksempel når vi skal forklare det hele.
 
-Vi drar langt tilbake i tid, til et mektig kongerike. Her finner vi en liten landsby, med mange små magiske landsbyboere. Blant alle disse landsbyboerne finner vi lille Bjørn.  
+Vi drar langt tilbake i tid, til et mektig kongerike. Her finner vi en liten landsby, med mange små magiske landsbyboere. Blant alle disse landsbyboerne finner vi Bjørn.  
 Denne gledesdagen er Bjørn sin bursdag, og heldig som han er har han fått et tresverd fra sine foreldre i bursdagsgave. Sverdet svinger Bjørn ivrig rundt seg, mens han ler lystig.
 
 ![Blokkjede](../assets/gutt-med-sverd.jpg)
