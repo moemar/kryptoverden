@@ -1,11 +1,14 @@
 ---
 title: Hva er en blokkjede?
 date: 2019-08-03T15:05:00.000Z
-description: Hva er egentlig en blokkjede, blokkjedeteknologi eller blockchain som det heter på engelsk. Kjært barn har mange vanskelige navn. Vi tar en nærmere titt på hva det virkelig betyr.
+description: >-
+  Hva er egentlig en blokkjede, blokkjedeteknologi eller blockchain som det
+  heter på engelsk. Kjært barn har mange vanskelige navn. Vi tar en nærmere titt
+  på hva det virkelig betyr.
 ---
 ![Blokkjede](../assets/blokkjede.jpg)
 
-Hva er egentlig en blokkjede, blokkjedeteknologi eller blockchain som det heter på engelsk. Kjære barn har gjerne mange vanskelige navn, dette barnet er intet unntak. Vi tar en nærmere titt på hva det virkelig betyr.
+Hva er egentlig en blokkjede, blokkjedeteknologi eller blockchain som det heter på engelsk. Kjært barn har gjerne mange vanskelige navn, dette barnet er intet unntak. Vi tar en nærmere titt på hva det virkelig betyr.
 
 ##Magiske internettpenger
 Selv om blokkjedeteknologi ofte kobles sammen med fenomenet og internettvalutaen Bitcoin, betyr det ikke at konseptet er helt nytt. Det betyr heller ikke at magiske internettpenger er det eneste bruksområdet for en blokkjede. La oss begynne med å forklare en blokkjede, på en måte som alle kan relatere seg til.
