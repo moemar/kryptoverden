@@ -1,7 +1,7 @@
 ---
 title: Hva er en blokkjede?
 date: 2019-08-03T15:05:00.000Z
-description: 'Markdown syntax til bruk på blogg'
+description: Hva er egentlig en blokkjede?
 ---
 ![Blokkjede](../assets/blokkjede.jpg)
 ##Kommer snart
