@@ -32,7 +32,7 @@ Du skjønner, før sverdet ble til et sverd så var det nemlig en treplanke, og 
 
 ![Blokkjede](../assets/magisk-bok.jpg)
 
-Alle landsbyboerne inkludert Bjørn kunne finne ut av dette ved å se i den magiske boken. Her kunne man se sverdets vei fra tre til sverd, og alle stopp det tok underveis. Det samme gjaldt faktisk for alle andre ting i landsbyen.
+Alle landsbyboerne inkludert Bjørn kunne finne ut av dette ved å se i den magiske boken. Her kunne man se  vei fra tre til sverd, og alle stopp det tok underveis. Det samme gjaldt faktisk for alle andre ting i landsbyen.
 
 For et fantastisk verktøy dette var! Det betyr at ingen bortsett fra landsbyboerne i felleskap holdt styr på all denne informasjonen. Det var ingen mellommenn som krevde penger for å kunne lese og skrive i boken, og ingen kunne skrive feil informasjon i boken uten at alle i landsbyen var enige om det.
 
